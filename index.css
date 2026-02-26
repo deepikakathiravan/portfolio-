@@ -258,13 +258,13 @@ nav ul {
     flex-direction: column;
     gap: 15px;
       align-items: center;
-    /* justify-content: center;
-} */
+    /* /* justify-content: center;* */
+} 
     .btn {
         margin-top: 15px;
     }
 }
-}
+
   
         @keyframes bounce {
     0%,100% { transform: translateY(0); }
